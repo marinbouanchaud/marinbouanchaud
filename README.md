@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 Full-stack web & mobile developer
-React, React Native, Node
+React, React Native, Node, Python
